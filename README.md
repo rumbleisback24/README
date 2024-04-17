@@ -1,14 +1,14 @@
 ### 📖 About Me :
-- 👋 Hi, I’m Aang Pangantyas Sampurna (@aangps01)
+- 👋 Hi, I’m Rumble is back (@rumbleisback)
 - 👀 An Informatics Engineering student at
   one of the state universities in Indonesia
 - 🌱 Someone who is passionate about learning
-  Full Stack Developer
-- 📫 Contact me at aangpangantyas@gmail.com or https://www.aangps01.com
+  Full Stack Mobile Developer
+- 📫 Contact me at rumbleisback24@gmail.com or https://www.rumbleisback24.com
 ---
 ### 🔥 My Stats :
   <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aangps01&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rumbleisback24&theme=algolia&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rumbleisback24&layout=compact&langs_count=8&theme=algolia"/>
   </div>
 
