@@ -12,20 +12,23 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rumbleisback24&layout=compact&langs_count=8&theme=tokyonight"/>
   </div>
   <img  height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=rumbleisback24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+---
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/icons/go/go-original.svg" title="Go"  alt="Go" width="40" height="40"/>&nbsp;
+</div>
 
 ### 🔥My Wakatime Stats Last 7 Days :
   <div align="center">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rumbleisback24&theme=algolia&layout=compact&range=last_7_days"/>
    </div>
 
----
 
-### :hammer_and_wrench: Languages and Tools :
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
-</div>
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
