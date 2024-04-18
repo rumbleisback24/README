@@ -5,6 +5,8 @@
 - 🌱 Someone who is passionate about learning
   Full Stack Mobile Developer
 - 📫 Contact me at rumbleisback24@gmail.com or https://www.rumbleisback24.com
+
+
 ---
 ### 🔥 My Stats :
   <div align="center">
