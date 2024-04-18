@@ -10,8 +10,8 @@
 
 ### 🔥 My Stats :
   <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aangps01&theme=algolia&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aangps01&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rumbleisback24&theme=algolia&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rumbleisback24&layout=compact&langs_count=8&theme=algolia"/>
   </div>
 
 ### 🔥 My Stats :
