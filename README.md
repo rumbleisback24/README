@@ -1,10 +1,15 @@
+
+<h2>👋 Hi, I’m Rumble is back (@rumbleisback)</h2>
+
+
 ### 📖 About Me :
-- 👋 Hi, I’m Rumble is back (@rumbleisback)
 - 👀 An Informatics Engineering student at
   one of the state universities in Indonesia
 - 🌱 Someone who is passionate about learning
   Full Stack Mobile Developer
 - 📫 Contact me at rumbleisback24@gmail.com or https://www.rumbleisback24.com
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ---
 
