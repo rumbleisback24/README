@@ -9,6 +9,8 @@
   Full Stack Mobile Developer
 - 📫 Contact me at rumbleisback24@gmail.com or https://www.rumbleisback24.com
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumbleisback24" alt="akmadan" /></a> </p>
+
 
 ---
 
