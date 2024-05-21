@@ -34,13 +34,7 @@
 </div>
 
 
-<p align="center">
-<a href="https://linkedin.com/in/rumbleisback"><img src="https://img.shields.io/badge/-Rumble%20IS%20BACK?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/rumbleisback"><img src="https://img.shields.io/badge/-@rumbleisback?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
-
 [![Linkedin !](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayuwira)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://bayuwirabrata.medium.com/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bayuwirab)
 
 
